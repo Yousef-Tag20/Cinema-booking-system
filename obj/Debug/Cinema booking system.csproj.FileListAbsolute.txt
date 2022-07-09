@@ -1,0 +1,33 @@
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\bin\Debug\Cinema booking system.exe.config
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\bin\Debug\Cinema booking system.exe
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\bin\Debug\Cinema booking system.pdb
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema booking system.csprojAssemblyReference.cache
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema_booking_system.Form1.resources
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema_booking_system.Form2.resources
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema_booking_system.Properties.Resources.resources
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema booking system.csproj.GenerateResource.cache
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema booking system.csproj.CoreCompileInputs.cache
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema booking system.exe
+C:\Users\Abduallah Kazem\source\repos\Cinema booking system\obj\Debug\Cinema booking system.pdb
+D:\Cinema booking system\Cinema booking system\bin\Debug\Cinema booking system.exe.config
+D:\Cinema booking system\Cinema booking system\bin\Debug\Cinema booking system.exe
+D:\Cinema booking system\Cinema booking system\bin\Debug\Cinema booking system.pdb
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema booking system.csprojAssemblyReference.cache
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Form1.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Form2.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Properties.Resources.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema booking system.csproj.GenerateResource.cache
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema booking system.csproj.CoreCompileInputs.cache
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema booking system.exe
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema booking system.pdb
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Form3.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Ticket1.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Feedback.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.UserSearch.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.AddMovie.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.AdminSearch.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.ManageBooking.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.MforAdmin.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.Mforuser.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.User_sBooking.resources
+D:\Cinema booking system\Cinema booking system\obj\Debug\Cinema_booking_system.ManageBookingForAdmin.resources
